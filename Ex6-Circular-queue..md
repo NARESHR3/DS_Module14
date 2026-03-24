@@ -6,6 +6,7 @@ Create a singly linked list.
 Rotate the linked list to the right by k positions.
 Display the rotated linked list.
 ## Algorithm
+```
 1. start the program.
 2. Handle edge casesDeveloped by: NARESH.R
 RegisterNumber:  212223240104
